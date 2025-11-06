@@ -19,6 +19,8 @@ Read me for curious people:
 
 Source: https://cryptrz.org/wordpress/2024/10/15/comment-automatiser-le-vidage-de-cache-sous-linux/ 
 
+---
+
 For Arch Linux users: 
 ```
 git clone https://github.com/cryptrz/freecache.git
