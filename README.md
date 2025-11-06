@@ -18,3 +18,16 @@ Read me for curious people:
         This allows users to see the effect of previous commands on memory usage.
 
 Source: https://cryptrz.org/wordpress/2024/10/15/comment-automatiser-le-vidage-de-cache-sous-linux/ 
+
+For Arch Linux users: 
+```
+git clone https://github.com/cryptrz/freecache.git
+
+cd freecache
+
+makepkg -si
+
+sudo pacman -U freecache-1.0.0-1-any.pkg.tar.zst
+
+sudo freecache
+```
